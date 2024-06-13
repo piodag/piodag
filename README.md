@@ -17,6 +17,7 @@ I have a PhD in chemistry (like Wilcoxon and Tukey) and have previously worked o
 - homogeneous enantioselective catalysis
 - reaction kinetics
 - 3D structure determination of proteins via NMR
+- electroconductive graphite based dispersions
 
 
 [<img alt="linkedin" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/piodag) [<img alt="youtube" src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" />](https://www.youtube.com/@piodaStat) [<img alt="threema" src="https://img.shields.io/badge/Threema-%233FE669?logo=threema&logoColor=white" />](https://threema.id/ZPTWC3X7)
