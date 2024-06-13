@@ -2,7 +2,7 @@
 
 ## Hi there 👋
 
-[<img alt="linkedin" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/piodag) [<img alt="youtube" src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" />](https://www.youtube.com/@piodaStat) 
+[<img alt="linkedin" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/piodag) [<img alt="youtube" src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" />](https://www.youtube.com/@piodaStat) [<img alt="threema" src="https://img.shields.io/badge/threema-#3FE669.svg?&style=for-the-badge&logo=threema&logoColor=white" />](https://threema.id/ZPTWC3X7)
 
 
 
