@@ -9,7 +9,7 @@ I have resurrected some old methods for Deming's robust regression (M- and MM- o
 - [*mcrPioda*](https://cran.r-project.org/package=mcrPioda): this is a fork of the [*mcr*](https://cran.r-project.org/package=mcr) package with additional M- and MM-Deming regressions and the function for the MD test.
 - [*rstanbdp*](https://cran.r-project.org/package=rstanbdp): is the package for dealing with Deming regressions in Bayesian mode. Robust methods and methods for heteroschedastic data are available.
 
-[Here is an interesting read from 2021 on comparing methods](https://arxiv.org/pdf/2105.04628)
+[Here is an interesting read from 2021 on method comparison and Passing Bablok bias](https://arxiv.org/pdf/2105.04628)
 
 [Here my new advances for method comparison](https://piodag.github.io/)
 
