@@ -10,6 +10,7 @@ I have resurrected some old methods for Deming's robust regression (M- and MM- o
 - *rstanbdp*: is the package for dealing with Deming regressions in Bayesian mode. Robust methods and methods for heteroschedastic data are available.
 
 [Here is an interesting read from 2021 on comparing methods](https://arxiv.org/pdf/2105.04628)
+[Here my new advances](https://piodag.github.io/)
 
 I have a PhD in chemistry (like Wilcoxon and Tukey) and have previously worked on:
 - homogeneous enantioselective catalysis
