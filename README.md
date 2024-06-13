@@ -2,7 +2,7 @@
 
 ## Hi there 👋
 
-I offer consultancy in statistics, biostatistics, machine learning and *methods comparison*. **If you have a problem you can't solve and if you can find me you might hire me.**
+I offer consultancy in statistics, biostatistics, machine learning and *methods comparison*. **If you have a problem you can't solve and if you can get to find me you might hire me.**
 
 I have resurrected some old methods for Deming's robust regression (M- and MM- or Huber and Tukey if you prefer). I proposed a single test based on the Mahalanobis distance (MD) to replace the typical slope and intercept confidence interval tests performed separately and without FWER. Finally, I developed a Bayesian method for Deming regression that can be run in robust mode and also has models suitable for heteroschedastic data. I maintain two packages on **CRAN** whose sources can be found below:
 
