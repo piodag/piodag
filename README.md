@@ -2,7 +2,10 @@
 
 ## Hi there 👋
 
-[<img alt="linkedin" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/piodag)
+[<img alt="linkedin" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/piodag) [<img alt="youtube" src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" />](https://www.youtube.com/@piodaStat) 
+
+
+
 
 <!--
 **piodag/piodag** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
