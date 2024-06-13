@@ -6,8 +6,8 @@ I offer consultancy in statistics, biostatistics, machine learning and *methods 
 
 I have resurrected some old methods for Deming's robust regression (M- and MM- or Huber and Tukey if you prefer). I proposed a single test based on the Mahalanobis distance (MD) to replace the typical slope and intercept confidence interval tests performed separately and without FWER. Finally, I developed a Bayesian method for Deming regression that can be run in robust mode and also has models suitable for heteroschedastic data. I maintain two packages on **CRAN** whose sources can be found below:
 
-- *mcrPioda*: this is a clone of the mcr package with additional M- and MM-Deming regressions and the function for the MD test.
-- *rstanbdp*: is the package for dealing with Deming regressions in Bayesian mode. Robust methods and methods for heteroschedastic data are available.
+- [*mcrPioda*](https://cran.r-project.org/package=mcrPioda): this is a clone of the mcr package with additional M- and MM-Deming regressions and the function for the MD test.
+- [*rstanbdp*](https://cran.r-project.org/package=rstanbdp): is the package for dealing with Deming regressions in Bayesian mode. Robust methods and methods for heteroschedastic data are available.
 
 [Here is an interesting read from 2021 on comparing methods](https://arxiv.org/pdf/2105.04628)
 
